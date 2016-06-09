@@ -27,6 +27,12 @@ gem 'spree_auth_devise', '~> 3.1.0'
 gem 'spree_gateway', '~> 3.1.0'
 gem 'spree_static_content', github: 'spree-contrib/spree_static_content', branch: '3-1-stable'
 gem 'spree_related_products', github: 'spree-contrib/spree_related_products', branch: '3-1-stable'
+gem 'spree_i18n', github: 'spree-contrib/spree_i18n', branch: '3-1-stable'
+gem 'spree_slider', github: 'spree-contrib/spree_slider', branch: '3-1-stable'
+gem 'spree_editor', github: 'spree-contrib/spree_editor', branch: '3-1-stable'
+gem 'spree_reviews', github: 'spree-contrib/spree_reviews', branch: '3-1-stable'
+gem 'spree_contact_us', github: 'spree-contrib/spree_contact_us', branch: 'master'
+gem 'tinymce-rails-langs'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
